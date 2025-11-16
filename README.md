@@ -294,7 +294,7 @@ export OPENAI_API_KEY="your-api-key-here"
 # Windows: set OPENAI_API_KEY=your-api-key-here
 
 # Run
-python agi_simulator.py
+python agi_simulator_english.py
 
 
 If no API key is provided, the system automatically falls back to mock responses.
